@@ -1,0 +1,7 @@
+# ignore ndhulipala1 virtual environment
+dist_env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
