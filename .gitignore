@@ -5,3 +5,6 @@ dist_env
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Jupyter notebook output
+.ipynb_checkpoints
