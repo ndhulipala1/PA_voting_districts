@@ -1,6 +1,6 @@
 # Pennsylvania Voting District Analysis
 
-This codebase is where analysis was done to compare the output of the [BDistricting algorithm](https://bdistricting.com/about.html), a political redistricting algorithm, and the 2020 Congressional Districts of Pennsylvania (PA). This analysis was performed for our paper, "Algorithms for Political Redistricting and Assessing Fairness," a final project for the course CS331 Advanced Algorithms at Wellesley College. This README will explain what the various aspects of the repository are, what they do, and how to operate them.
+This codebase is where analysis was done to compare the output of the [BDistricting algorithm](https://bdistricting.com/about.html), a political redistricting algorithm, and the 2020 Congressional Districts of Pennsylvania (PA). This analysis was performed for our paper, "Algorithms for Political Redistricting and Assessing Fairness," a final project for the course CS331 Advanced Algorithms at Wellesley College (linked [here](https://drive.google.com/file/d/1SbNpvwVfDj4vciJeJH-1DentXQs6XX8J/view?usp=sharing)). This README will explain what the various aspects of the repository are, what they do, and how to operate them.
 
 ## About This Repository
 
